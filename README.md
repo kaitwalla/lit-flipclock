@@ -1,6 +1,6 @@
 # &lt;flip-clock>
 
-![Screen recording of the flipclock element running for several seconds](https://cln.sh/cH01jBXK)
+![Screen recording of the flipclock element running for several seconds](https://i.imgur.com/yPIfsWr.gif)
 
 `<flip-clock>` is an element that shows a rotating clock of the current timezone as defined by your system (or at least, as passed to the browser).
 
